@@ -50,7 +50,7 @@ namespace CommandAPI.Data
             {   Id=0, 
                 HowTo="How to generate a migration",    
                 CommandLine="dotnet ef migrations add <Name of Migration>",    
-                Platform=".Net Core EF"
+                Platform=".Net Core EFx"
             };
         }
 
