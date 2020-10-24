@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
+using AutoMapper;
 using CommandAPI.Data;
 namespace commandAPI
 {
@@ -26,6 +27,7 @@ namespace commandAPI
             services.AddDbContext<CommandContext>(opt => opt.UseSqlite
             (Configuration.GetConnectionString("SqliteSqlConnection")));
             services.AddControllers();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             //services.AddScoped<ICommandAPIRepo, MockCommandAPIRepo>();
             services.AddScoped<ICommandAPIRepo, SqlCommandAPIRepo>();
         }

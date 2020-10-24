@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rQ4tPYT39kl/hdw8OH7HzXy48TaIC66LKbtGV5edNhnh/CPW5YRm5+p/lg5Djz6QwEuQrTOv+uqHOLg4tfPKCA==",
+  "dgSpecHash": "G4hMqazLchUq8hQdS8zPURoumK1IEXLKXlQjTeFViLGHEpmwz4pltfkaEs/ARKkxXb2yM3daClIzFVxo+5+tmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\RUYGANEFFRIBEIRO\\Documents\\netCore\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -36,6 +38,7 @@
     "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\RUYGANEFFRIBEIRO\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []

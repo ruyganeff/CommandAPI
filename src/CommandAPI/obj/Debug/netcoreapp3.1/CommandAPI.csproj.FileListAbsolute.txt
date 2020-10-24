@@ -59,3 +59,5 @@ C:\Users\RUYGANEFFRIBEIRO\Documents\netCore\CommandAPISolution\src\CommandAPI\bi
 C:\Users\RUYGANEFFRIBEIRO\Documents\netCore\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\RUYGANEFFRIBEIRO\Documents\netCore\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\RUYGANEFFRIBEIRO\Documents\netCore\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\RUYGANEFFRIBEIRO\Documents\netCore\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\RUYGANEFFRIBEIRO\Documents\netCore\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
